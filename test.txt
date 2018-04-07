@@ -12,17 +12,6 @@ Quisque ipsum lacus, laoreet vitae est non, commodo dignissim tellus. Suspendiss
 Aenean ornare eros magna, vel hendrerit lectus condimentum eget. Maecenas fermentum finibus libero. Integer varius sapien ut odio dictum, id sagittis nisl malesuada. 
 Sed eu neque massa.
 
-HIGOR AUGUSTO SILVERIO
-PARAGRAFO A SER EXCLUIDO
-VERIFICAR NOVAMENTE APÓS AS ALTERAÇÕES
-
-Etiam euismod pretium tellus. Praesent ut dictum nisi. Cras mollis egestas ullamcorper. 
-Aliquam tincidunt aliquet sem, id ultricies nisi dignissim id. Phasellus aliquet sodales turpis nec pretium. 
-Mauris vel tristique felis. Aliquam tincidunt blandit enim sed luctus. Phasellus ligula risus, suscipit ac placerat in, interdum vel est. 
-Duis placerat nulla a lorem egestas mattis. Fusce feugiat velit urna, a porttitor leo maximus sed. 
-Maecenas erat magna, posuere vitae pulvinar eget, consectetur eu risus. 
-Vivamus suscipit volutpat urna, vel porttitor velit sodales vitae.
-
 Suspendisse nibh leo, vulputate id nisi et, varius hendrerit tortor. 
 Nam fringilla porttitor auctor. Sed consequat risus nibh, eu tincidunt enim tristique eget. 
 Praesent dui ex, sollicitudin ac libero in, maximus varius magna. Nunc iaculis rutrum nisi, porta cursus nibh varius sed. 
